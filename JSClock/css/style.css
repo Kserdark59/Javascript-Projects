@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#myName{
+    color: #FB2576;
+}
+.text1{
+    color:#FED049 ;
+    font-size: 50px;
+}
+.text-center{
+    
+    text-align: center;
+}
+h1{
+    color: #FED049;
+    position: relative;
+}
+
+.center{
+    text-align: center ;
+}
+.xycenter{
+    margin-top: 400px;
+}
